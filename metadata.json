@@ -1,6 +1,6 @@
 {
   "name": "justinjl-smarthost",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "author": "justinjl",
   "summary": "Configures simple smtp smarthost",
   "license": "Apache 2.0",

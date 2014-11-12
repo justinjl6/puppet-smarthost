@@ -30,7 +30,7 @@ class { '::smarthost' : }
 
 ### Classes
 
-Declare the class. THere are a number of optional parameters whose defaults
+Declare the class. There are a number of optional parameters whose defaults
 are listed below:
 
 ```

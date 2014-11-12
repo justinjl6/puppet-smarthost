@@ -1,6 +1,6 @@
 {
   "Gemfile": "dbc1a15e3a264c03878028240cfc5d89",
-  "README.md": "222825fbbf4fe2dd7c84202fb3f5e12c",
+  "README.md": "d8ef3db4079f1c01b6c7ac9ad4e08b0f",
   "Rakefile": "20b80e526e351a74df2001f504e756d2",
   "manifests/exim4/config.pp": "1e9205e9dc0ea7a67cbfaa8217d770b8",
   "manifests/exim4/install.pp": "cdece65145a65e3296ee65aa07e9e50d",
