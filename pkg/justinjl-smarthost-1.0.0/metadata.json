@@ -4,9 +4,9 @@
   "author": "justinjl",
   "summary": "Configures simple smtp smarthost",
   "license": "Apache 2.0",
-  "source": "http://repo.justinjl.net/puppet/",
-  "project_page": "http://repo.justinjl.net/puppet/",
-  "issues_url": "http://repo.justinjl.net/puppet/",
+  "source": "https://github.com/justinjl6/puppet-smarthost/",
+  "project_page": "https://github.com/justinjl6/puppet-smarthost/",
+  "issues_url": "https://github.com/justinjl6/puppet-smarthost/",
   "operatingsystem_support": [
     {
       "operatingsystem": "CentOS",

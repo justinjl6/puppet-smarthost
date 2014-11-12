@@ -16,7 +16,7 @@
   "manifests/sendmail/install.pp": "ed4d6716e6734639b0683050c91aa727",
   "manifests/sendmail/service.pp": "b75cf19eb35e8949fa09904c36dca9ed",
   "manifests/sendmail.pp": "a786fe34f7c4eec13bf917fdaefd5fe1",
-  "metadata.json": "84ea7b94bf66f15bd30406ea00adc727",
+  "metadata.json": "6ef1a7143c0be7b3b112ac5148d2aa57",
   "spec/classes/init_spec.rb": "cafe0634557ba2aaad09f7ae6faff531",
   "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
   "templates/exim4/update-exim4.conf.conf.erb": "c835d7dd0e60ccb29b1c651662c8d814",
