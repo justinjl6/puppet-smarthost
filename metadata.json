@@ -1,0 +1,21 @@
+{
+  "name": "justinjl-smarthost",
+  "version": "1.1.0",
+  "author": "justinjl",
+  "summary": "Configures simple smtp smarthost",
+  "license": "Apache 2.0",
+  "source": "http://repo.justinjl.net/puppet/",
+  "project_page": "http://repo.justinjl.net/puppet/",
+  "issues_url": "http://repo.justinjl.net/puppet/",
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "operatingsystem_support": [
+    { "operatingsystem": "CentOS",      "operatingsystemrelease": [ "5", "6", "7" ] },
+    { "operatingsystem": "CloudLinux",  "operatingsystemrelease": [ "5", "6", "7" ] },
+    { "operatingsystem": "Debian",      "operatingsystemrelease": [ "7" ] },
+    { "operatingsystem": "RedHat",      "operatingsystemrelease": [ "5", "6", "7" ] },
+    { "operatingsystem": "Ubuntu",      "operatingsystemrelease": [ "10.04", "12.04", "14.04" ] }
+  ]
+}
+
